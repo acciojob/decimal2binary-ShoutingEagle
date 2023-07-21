@@ -1,4 +1,4 @@
-function threeSum(arr,target) {
+function threeSum(target) {
 // write your code here
         let str = "";
         let tempStr = "";
